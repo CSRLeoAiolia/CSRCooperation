@@ -9,5 +9,9 @@
 #warning This file must be compiled with ARC. Use -fobjc-arc flag (or convert project to ARC).
 #endif
 
+<<<<<<< HEAD
 //#define hahah
 //怎么回事儿
+=======
+//不要乱写哦，找点真实的，以后可以直接拿来用
+>>>>>>> master
